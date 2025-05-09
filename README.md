@@ -7,6 +7,7 @@
 - 🎓 Formação: Técnico em Eletrotécnica e graduando em Análise e Desenvolvimento de Sistemas  
 - 🔭 Atualmente em busca de oportunidades na área de tecnologia  
 - 🌱 Aprendendo: Java, SQL (no curso) e GitHub (de forma autodidata)
+- ⚒️ Matérias (Partipação) (Jornal): (https://www.metropoles.com/brasil/educacao-profissional/evento-em-escolas-do-df-reune-36-mil-pessoas-em-busca-de-formacao)
 
 ## 🛠️ Tecnologias e Ferramentas
 
